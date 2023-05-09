@@ -4,7 +4,7 @@
 
 1. EventStorming Model : Design Level
 
-![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/b16ebd43-3915-4880-bf19-e3826627891f)
+![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/05beeafc-59f5-4809-bf5e-2ab481cc1322)
 
 2. Saga (Pub / Sub)
 
