@@ -7,11 +7,11 @@
 
 2. Saga (Pub / Sub)
  .- front BC의 Statusupdate policy
- ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/f6bba1f2-a096-4605-a5c2-c5d982bfb024)
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/ac20b6d9-38bd-4f82-9794-bf26be5d692c)
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/3e024e63-45ec-4ec7-adb2-3c273cb8663c)
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/1fddbd7c-d6b7-46c7-abe7-9968ab3e52fe) 
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/86a0bbcc-a276-4aaf-b341-7c6f829c7074)
- ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/29357cda-405e-4e39-a8f4-01221357cf07)
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/cfb8324f-9044-4156-80b0-b9339150651e)
 
 3. CQRS
  3-1. Read Model Attributes
@@ -28,4 +28,7 @@
   ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/5ef87925-2830-4ecc-8633-a9700e03a55b)
 
 4. Compensation / Correlation
- 
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/5dca6913-d120-4253-bef0-b88c79bcc72a)
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/1ca33c65-fa4d-4774-a582-174b04510e09)
+
+
